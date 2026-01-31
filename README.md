@@ -1,1 +1,1 @@
-# bayesian_sports_models
+# probabilistic_sports_models
