@@ -1,0 +1,731 @@
+game,date,home_team,home_pts,away_team,away_pts,home_win,away_win
+1,"Tue, Oct 21, 2025",Oklahoma City Thunder,125,Houston Rockets,124,1,0
+2,"Tue, Oct 21, 2025",Los Angeles Lakers,109,Golden State Warriors,119,0,1
+3,"Wed, Oct 22, 2025",Charlotte Hornets,136,Brooklyn Nets,117,1,0
+4,"Wed, Oct 22, 2025",New York Knicks,119,Cleveland Cavaliers,111,1,0
+5,"Wed, Oct 22, 2025",Orlando Magic,125,Miami Heat,121,1,0
+6,"Wed, Oct 22, 2025",Boston Celtics,116,Philadelphia 76ers,117,0,1
+7,"Wed, Oct 22, 2025",Atlanta Hawks,118,Toronto Raptors,138,0,1
+8,"Wed, Oct 22, 2025",Chicago Bulls,115,Detroit Pistons,111,1,0
+9,"Wed, Oct 22, 2025",Memphis Grizzlies,128,New Orleans Pelicans,122,1,0
+10,"Wed, Oct 22, 2025",Milwaukee Bucks,133,Washington Wizards,120,1,0
+11,"Wed, Oct 22, 2025",Utah Jazz,129,Los Angeles Clippers,108,1,0
+12,"Wed, Oct 22, 2025",Dallas Mavericks,92,San Antonio Spurs,125,0,1
+13,"Wed, Oct 22, 2025",Portland Trail Blazers,114,Minnesota Timberwolves,118,0,1
+14,"Wed, Oct 22, 2025",Phoenix Suns,120,Sacramento Kings,116,1,0
+15,"Thu, Oct 23, 2025",Indiana Pacers,135,Oklahoma City Thunder,141,0,1
+16,"Thu, Oct 23, 2025",Golden State Warriors,137,Denver Nuggets,131,1,0
+17,"Fri, Oct 24, 2025",Toronto Raptors,116,Milwaukee Bucks,122,0,1
+18,"Fri, Oct 24, 2025",Orlando Magic,107,Atlanta Hawks,111,0,1
+19,"Fri, Oct 24, 2025",Brooklyn Nets,124,Cleveland Cavaliers,131,0,1
+20,"Fri, Oct 24, 2025",New York Knicks,105,Boston Celtics,95,1,0
+21,"Fri, Oct 24, 2025",Houston Rockets,111,Detroit Pistons,115,0,1
+22,"Fri, Oct 24, 2025",New Orleans Pelicans,116,San Antonio Spurs,120,0,1
+23,"Fri, Oct 24, 2025",Memphis Grizzlies,114,Miami Heat,146,0,1
+24,"Fri, Oct 24, 2025",Dallas Mavericks,107,Washington Wizards,117,0,1
+25,"Fri, Oct 24, 2025",Los Angeles Lakers,128,Minnesota Timberwolves,110,1,0
+26,"Fri, Oct 24, 2025",Portland Trail Blazers,139,Golden State Warriors,119,1,0
+27,"Fri, Oct 24, 2025",Sacramento Kings,105,Utah Jazz,104,1,0
+28,"Fri, Oct 24, 2025",Los Angeles Clippers,129,Phoenix Suns,102,1,0
+29,"Sat, Oct 25, 2025",Orlando Magic,98,Chicago Bulls,110,0,1
+30,"Sat, Oct 25, 2025",Atlanta Hawks,100,Oklahoma City Thunder,117,0,1
+31,"Sat, Oct 25, 2025",Philadelphia 76ers,125,Charlotte Hornets,121,1,0
+32,"Sat, Oct 25, 2025",Memphis Grizzlies,128,Indiana Pacers,103,1,0
+33,"Sat, Oct 25, 2025",Denver Nuggets,133,Phoenix Suns,111,1,0
+34,"Sun, Oct 26, 2025",San Antonio Spurs,118,Brooklyn Nets,107,1,0
+35,"Sun, Oct 26, 2025",Detroit Pistons,119,Boston Celtics,113,1,0
+36,"Sun, Oct 26, 2025",Washington Wizards,113,Charlotte Hornets,139,0,1
+37,"Sun, Oct 26, 2025",Miami Heat,115,New York Knicks,107,1,0
+38,"Sun, Oct 26, 2025",Cleveland Cavaliers,118,Milwaukee Bucks,113,1,0
+39,"Sun, Oct 26, 2025",Minnesota Timberwolves,114,Indiana Pacers,110,1,0
+40,"Sun, Oct 26, 2025",Dallas Mavericks,139,Toronto Raptors,129,1,0
+41,"Sun, Oct 26, 2025",Sacramento Kings,120,Los Angeles Lakers,127,0,1
+42,"Sun, Oct 26, 2025",Los Angeles Clippers,114,Portland Trail Blazers,107,1,0
+43,"Mon, Oct 27, 2025",Detroit Pistons,95,Cleveland Cavaliers,116,0,1
+44,"Mon, Oct 27, 2025",Philadelphia 76ers,136,Orlando Magic,124,1,0
+45,"Mon, Oct 27, 2025",Chicago Bulls,128,Atlanta Hawks,123,1,0
+46,"Mon, Oct 27, 2025",Houston Rockets,137,Brooklyn Nets,109,1,0
+47,"Mon, Oct 27, 2025",New Orleans Pelicans,90,Boston Celtics,122,0,1
+48,"Mon, Oct 27, 2025",San Antonio Spurs,121,Toronto Raptors,103,1,0
+49,"Mon, Oct 27, 2025",Dallas Mavericks,94,Oklahoma City Thunder,101,0,1
+50,"Mon, Oct 27, 2025",Utah Jazz,138,Phoenix Suns,134,1,0
+51,"Mon, Oct 27, 2025",Minnesota Timberwolves,114,Denver Nuggets,127,0,1
+52,"Mon, Oct 27, 2025",Golden State Warriors,131,Memphis Grizzlies,118,1,0
+53,"Mon, Oct 27, 2025",Los Angeles Lakers,108,Portland Trail Blazers,122,0,1
+54,"Tue, Oct 28, 2025",Washington Wizards,134,Philadelphia 76ers,139,0,1
+55,"Tue, Oct 28, 2025",Miami Heat,144,Charlotte Hornets,117,1,0
+56,"Tue, Oct 28, 2025",Milwaukee Bucks,121,New York Knicks,111,1,0
+57,"Tue, Oct 28, 2025",Oklahoma City Thunder,107,Sacramento Kings,101,1,0
+58,"Tue, Oct 28, 2025",Golden State Warriors,98,Los Angeles Clippers,79,1,0
+59,"Wed, Oct 29, 2025",Toronto Raptors,121,Houston Rockets,139,0,1
+60,"Wed, Oct 29, 2025",Boston Celtics,125,Cleveland Cavaliers,105,1,0
+61,"Wed, Oct 29, 2025",Detroit Pistons,135,Orlando Magic,116,1,0
+62,"Wed, Oct 29, 2025",Brooklyn Nets,112,Atlanta Hawks,117,0,1
+63,"Wed, Oct 29, 2025",Chicago Bulls,126,Sacramento Kings,113,1,0
+64,"Wed, Oct 29, 2025",Dallas Mavericks,107,Indiana Pacers,105,1,0
+65,"Wed, Oct 29, 2025",Utah Jazz,134,Portland Trail Blazers,136,0,1
+66,"Wed, Oct 29, 2025",Denver Nuggets,122,New Orleans Pelicans,88,1,0
+67,"Wed, Oct 29, 2025",Minnesota Timberwolves,115,Los Angeles Lakers,116,0,1
+68,"Wed, Oct 29, 2025",Phoenix Suns,113,Memphis Grizzlies,114,0,1
+69,"Thu, Oct 30, 2025",Charlotte Hornets,107,Orlando Magic,123,0,1
+70,"Thu, Oct 30, 2025",Milwaukee Bucks,120,Golden State Warriors,110,1,0
+71,"Thu, Oct 30, 2025",Oklahoma City Thunder,127,Washington Wizards,108,1,0
+72,"Thu, Oct 30, 2025",San Antonio Spurs,107,Miami Heat,101,1,0
+73,"Fri, Oct 31, 2025",Indiana Pacers,108,Atlanta Hawks,128,0,1
+74,"Fri, Oct 31, 2025",Philadelphia 76ers,108,Boston Celtics,109,0,1
+75,"Fri, Oct 31, 2025",Cleveland Cavaliers,101,Toronto Raptors,112,0,1
+76,"Fri, Oct 31, 2025",Chicago Bulls,135,New York Knicks,125,1,0
+77,"Fri, Oct 31, 2025",Memphis Grizzlies,112,Los Angeles Lakers,117,0,1
+78,"Fri, Oct 31, 2025",Phoenix Suns,118,Utah Jazz,96,1,0
+79,"Fri, Oct 31, 2025",Portland Trail Blazers,109,Denver Nuggets,107,1,0
+80,"Fri, Oct 31, 2025",Los Angeles Clippers,126,New Orleans Pelicans,124,1,0
+81,"Sat, Nov 1, 2025",Milwaukee Bucks,133,Sacramento Kings,135,0,1
+82,"Sat, Nov 1, 2025",Charlotte Hornets,105,Minnesota Timberwolves,122,0,1
+83,"Sat, Nov 1, 2025",Indiana Pacers,114,Golden State Warriors,109,1,0
+84,"Sat, Nov 1, 2025",Washington Wizards,94,Orlando Magic,125,0,1
+85,"Sat, Nov 1, 2025",Boston Celtics,101,Houston Rockets,128,0,1
+86,"Sat, Nov 1, 2025",Detroit Pistons,122,Dallas Mavericks,110,1,0
+87,"Sun, Nov 2, 2025",Oklahoma City Thunder,137,New Orleans Pelicans,106,1,0
+88,"Sun, Nov 2, 2025",Brooklyn Nets,105,Philadelphia 76ers,129,0,1
+89,"Sun, Nov 2, 2025",Charlotte Hornets,126,Utah Jazz,103,1,0
+90,"Sun, Nov 2, 2025",Cleveland Cavaliers,117,Atlanta Hawks,109,1,0
+91,"Sun, Nov 2, 2025",Toronto Raptors,117,Memphis Grizzlies,104,1,0
+92,"Sun, Nov 2, 2025",New York Knicks,128,Chicago Bulls,116,1,0
+93,"Sun, Nov 2, 2025",Phoenix Suns,130,San Antonio Spurs,118,1,0
+94,"Sun, Nov 2, 2025",Los Angeles Lakers,130,Miami Heat,120,1,0
+95,"Mon, Nov 3, 2025",Brooklyn Nets,109,Minnesota Timberwolves,125,0,1
+96,"Mon, Nov 3, 2025",Indiana Pacers,115,Milwaukee Bucks,117,0,1
+97,"Mon, Nov 3, 2025",Boston Celtics,103,Utah Jazz,105,0,1
+98,"Mon, Nov 3, 2025",New York Knicks,119,Washington Wizards,102,1,0
+99,"Mon, Nov 3, 2025",Houston Rockets,110,Dallas Mavericks,102,1,0
+100,"Mon, Nov 3, 2025",Memphis Grizzlies,106,Detroit Pistons,114,0,1
+101,"Mon, Nov 3, 2025",Denver Nuggets,130,Sacramento Kings,124,1,0
+102,"Mon, Nov 3, 2025",Portland Trail Blazers,115,Los Angeles Lakers,123,0,1
+103,"Mon, Nov 3, 2025",Los Angeles Clippers,119,Miami Heat,120,0,1
+104,"Tue, Nov 4, 2025",Toronto Raptors,128,Milwaukee Bucks,100,1,0
+105,"Tue, Nov 4, 2025",Atlanta Hawks,127,Orlando Magic,112,1,0
+106,"Tue, Nov 4, 2025",Chicago Bulls,113,Philadelphia 76ers,111,1,0
+107,"Tue, Nov 4, 2025",New Orleans Pelicans,116,Charlotte Hornets,112,1,0
+108,"Tue, Nov 4, 2025",Golden State Warriors,118,Phoenix Suns,107,1,0
+109,"Tue, Nov 4, 2025",Los Angeles Clippers,107,Oklahoma City Thunder,126,0,1
+110,"Wed, Nov 5, 2025",Cleveland Cavaliers,132,Philadelphia 76ers,121,1,0
+111,"Wed, Nov 5, 2025",Detroit Pistons,114,Utah Jazz,103,1,0
+112,"Wed, Nov 5, 2025",Indiana Pacers,103,Brooklyn Nets,112,0,1
+113,"Wed, Nov 5, 2025",Boston Celtics,136,Washington Wizards,107,1,0
+114,"Wed, Nov 5, 2025",New York Knicks,137,Minnesota Timberwolves,114,1,0
+115,"Wed, Nov 5, 2025",Memphis Grizzlies,109,Houston Rockets,124,0,1
+116,"Wed, Nov 5, 2025",Dallas Mavericks,99,New Orleans Pelicans,101,0,1
+117,"Wed, Nov 5, 2025",Denver Nuggets,122,Miami Heat,112,1,0
+118,"Wed, Nov 5, 2025",Los Angeles Lakers,118,San Antonio Spurs,116,1,0
+119,"Wed, Nov 5, 2025",Portland Trail Blazers,121,Oklahoma City Thunder,119,1,0
+120,"Wed, Nov 5, 2025",Sacramento Kings,121,Golden State Warriors,116,1,0
+121,"Thu, Nov 6, 2025",Phoenix Suns,115,Los Angeles Clippers,102,1,0
+122,"Fri, Nov 7, 2025",Orlando Magic,123,Boston Celtics,110,1,0
+123,"Fri, Nov 7, 2025",Washington Wizards,115,Cleveland Cavaliers,148,0,1
+124,"Fri, Nov 7, 2025",Atlanta Hawks,97,Toronto Raptors,109,0,1
+125,"Fri, Nov 7, 2025",Brooklyn Nets,107,Detroit Pistons,125,0,1
+126,"Fri, Nov 7, 2025",San Antonio Spurs,121,Houston Rockets,110,1,0
+127,"Fri, Nov 7, 2025",Memphis Grizzlies,118,Dallas Mavericks,104,1,0
+128,"Fri, Nov 7, 2025",Miami Heat,126,Charlotte Hornets,108,1,0
+129,"Fri, Nov 7, 2025",Milwaukee Bucks,126,Chicago Bulls,110,1,0
+130,"Fri, Nov 7, 2025",Minnesota Timberwolves,137,Utah Jazz,97,1,0
+131,"Fri, Nov 7, 2025",Denver Nuggets,129,Golden State Warriors,104,1,0
+132,"Fri, Nov 7, 2025",Sacramento Kings,101,Oklahoma City Thunder,132,0,1
+133,"Sat, Nov 8, 2025",Washington Wizards,105,Dallas Mavericks,111,0,1
+134,"Sat, Nov 8, 2025",Philadelphia 76ers,130,Toronto Raptors,120,1,0
+135,"Sat, Nov 8, 2025",Atlanta Hawks,122,Los Angeles Lakers,102,1,0
+136,"Sat, Nov 8, 2025",Cleveland Cavaliers,128,Chicago Bulls,122,1,0
+137,"Sat, Nov 8, 2025",Miami Heat,136,Portland Trail Blazers,131,1,0
+138,"Sat, Nov 8, 2025",San Antonio Spurs,126,New Orleans Pelicans,119,1,0
+139,"Sat, Nov 8, 2025",Denver Nuggets,117,Indiana Pacers,100,1,0
+140,"Sat, Nov 8, 2025",Los Angeles Clippers,103,Phoenix Suns,114,0,1
+141,"Sun, Nov 9, 2025",Milwaukee Bucks,115,Houston Rockets,122,0,1
+142,"Sun, Nov 9, 2025",Memphis Grizzlies,100,Oklahoma City Thunder,114,0,1
+143,"Sun, Nov 9, 2025",New York Knicks,134,Brooklyn Nets,98,1,0
+144,"Sun, Nov 9, 2025",Orlando Magic,107,Boston Celtics,111,0,1
+145,"Sun, Nov 9, 2025",Philadelphia 76ers,108,Detroit Pistons,111,0,1
+146,"Sun, Nov 9, 2025",Golden State Warriors,114,Indiana Pacers,83,1,0
+147,"Sun, Nov 9, 2025",Sacramento Kings,117,Minnesota Timberwolves,144,0,1
+148,"Mon, Nov 10, 2025",Charlotte Hornets,111,Los Angeles Lakers,121,0,1
+149,"Mon, Nov 10, 2025",Detroit Pistons,137,Washington Wizards,135,1,0
+150,"Mon, Nov 10, 2025",Orlando Magic,115,Portland Trail Blazers,112,1,0
+151,"Mon, Nov 10, 2025",Miami Heat,140,Cleveland Cavaliers,138,1,0
+152,"Mon, Nov 10, 2025",Chicago Bulls,117,San Antonio Spurs,121,0,1
+153,"Mon, Nov 10, 2025",Dallas Mavericks,114,Milwaukee Bucks,116,0,1
+154,"Mon, Nov 10, 2025",Phoenix Suns,121,New Orleans Pelicans,98,1,0
+155,"Mon, Nov 10, 2025",Utah Jazz,113,Minnesota Timberwolves,120,0,1
+156,"Mon, Nov 10, 2025",Los Angeles Clippers,102,Atlanta Hawks,105,0,1
+157,"Tue, Nov 11, 2025",Brooklyn Nets,109,Toronto Raptors,119,0,1
+158,"Tue, Nov 11, 2025",New York Knicks,133,Memphis Grizzlies,120,1,0
+159,"Tue, Nov 11, 2025",Oklahoma City Thunder,126,Golden State Warriors,102,1,0
+160,"Tue, Nov 11, 2025",Philadelphia 76ers,102,Boston Celtics,100,1,0
+161,"Tue, Nov 11, 2025",Utah Jazz,152,Indiana Pacers,128,1,0
+162,"Tue, Nov 11, 2025",Sacramento Kings,108,Denver Nuggets,122,0,1
+163,"Wed, Nov 12, 2025",Charlotte Hornets,111,Milwaukee Bucks,100,1,0
+164,"Wed, Nov 12, 2025",Detroit Pistons,124,Chicago Bulls,113,1,0
+165,"Wed, Nov 12, 2025",New York Knicks,107,Orlando Magic,124,0,1
+166,"Wed, Nov 12, 2025",Boston Celtics,131,Memphis Grizzlies,95,1,0
+167,"Wed, Nov 12, 2025",Miami Heat,116,Cleveland Cavaliers,130,0,1
+168,"Wed, Nov 12, 2025",Houston Rockets,135,Washington Wizards,112,1,0
+169,"Wed, Nov 12, 2025",New Orleans Pelicans,117,Portland Trail Blazers,125,0,1
+170,"Wed, Nov 12, 2025",San Antonio Spurs,120,Golden State Warriors,125,0,1
+171,"Wed, Nov 12, 2025",Dallas Mavericks,114,Phoenix Suns,123,0,1
+172,"Wed, Nov 12, 2025",Oklahoma City Thunder,121,Los Angeles Lakers,92,1,0
+173,"Wed, Nov 12, 2025",Sacramento Kings,100,Atlanta Hawks,133,0,1
+174,"Wed, Nov 12, 2025",Los Angeles Clippers,116,Denver Nuggets,130,0,1
+175,"Thu, Nov 13, 2025",Cleveland Cavaliers,113,Toronto Raptors,126,0,1
+176,"Thu, Nov 13, 2025",Phoenix Suns,133,Indiana Pacers,98,1,0
+177,"Thu, Nov 13, 2025",Utah Jazz,122,Atlanta Hawks,132,0,1
+178,"Fri, Nov 14, 2025",New York Knicks,140,Miami Heat,132,1,0
+179,"Fri, Nov 14, 2025",Orlando Magic,105,Brooklyn Nets,98,1,0
+180,"Fri, Nov 14, 2025",Detroit Pistons,114,Philadelphia 76ers,105,1,0
+181,"Fri, Nov 14, 2025",Houston Rockets,140,Portland Trail Blazers,116,1,0
+182,"Fri, Nov 14, 2025",Milwaukee Bucks,147,Charlotte Hornets,134,1,0
+183,"Fri, Nov 14, 2025",Minnesota Timberwolves,124,Sacramento Kings,110,1,0
+184,"Fri, Nov 14, 2025",New Orleans Pelicans,104,Los Angeles Lakers,118,0,1
+185,"Fri, Nov 14, 2025",Dallas Mavericks,127,Los Angeles Clippers,133,0,1
+186,"Fri, Nov 14, 2025",San Antonio Spurs,108,Golden State Warriors,109,0,1
+187,"Sat, Nov 15, 2025",Cleveland Cavaliers,108,Memphis Grizzlies,100,1,0
+188,"Sat, Nov 15, 2025",Charlotte Hornets,96,Oklahoma City Thunder,109,0,1
+189,"Sat, Nov 15, 2025",Indiana Pacers,111,Toronto Raptors,129,0,1
+190,"Sat, Nov 15, 2025",Milwaukee Bucks,95,Los Angeles Lakers,119,0,1
+191,"Sat, Nov 15, 2025",Minnesota Timberwolves,112,Denver Nuggets,123,0,1
+192,"Sun, Nov 16, 2025",Boston Celtics,121,Los Angeles Clippers,118,1,0
+193,"Sun, Nov 16, 2025",San Antonio Spurs,123,Sacramento Kings,110,1,0
+194,"Sun, Nov 16, 2025",Washington Wizards,106,Brooklyn Nets,129,0,1
+195,"Sun, Nov 16, 2025",Houston Rockets,117,Orlando Magic,113,1,0
+196,"Sun, Nov 16, 2025",New Orleans Pelicans,106,Golden State Warriors,124,0,1
+197,"Sun, Nov 16, 2025",Dallas Mavericks,138,Portland Trail Blazers,133,1,0
+198,"Sun, Nov 16, 2025",Phoenix Suns,122,Atlanta Hawks,124,0,1
+199,"Sun, Nov 16, 2025",Utah Jazz,150,Chicago Bulls,147,1,0
+200,"Mon, Nov 17, 2025",Cleveland Cavaliers,118,Milwaukee Bucks,106,1,0
+201,"Mon, Nov 17, 2025",Detroit Pistons,127,Indiana Pacers,112,1,0
+202,"Mon, Nov 17, 2025",Philadelphia 76ers,110,Los Angeles Clippers,108,1,0
+203,"Mon, Nov 17, 2025",Miami Heat,115,New York Knicks,113,1,0
+204,"Mon, Nov 17, 2025",Toronto Raptors,110,Charlotte Hornets,108,1,0
+205,"Mon, Nov 17, 2025",Minnesota Timberwolves,120,Dallas Mavericks,96,1,0
+206,"Mon, Nov 17, 2025",New Orleans Pelicans,109,Oklahoma City Thunder,126,0,1
+207,"Mon, Nov 17, 2025",Denver Nuggets,127,Chicago Bulls,130,0,1
+208,"Tue, Nov 18, 2025",Orlando Magic,121,Golden State Warriors,113,1,0
+209,"Tue, Nov 18, 2025",Atlanta Hawks,112,Detroit Pistons,120,0,1
+210,"Tue, Nov 18, 2025",Brooklyn Nets,99,Boston Celtics,113,0,1
+211,"Tue, Nov 18, 2025",San Antonio Spurs,111,Memphis Grizzlies,101,1,0
+212,"Tue, Nov 18, 2025",Los Angeles Lakers,140,Utah Jazz,126,1,0
+213,"Tue, Nov 18, 2025",Portland Trail Blazers,110,Phoenix Suns,127,0,1
+214,"Wed, Nov 19, 2025",Cleveland Cavaliers,104,Houston Rockets,114,0,1
+215,"Wed, Nov 19, 2025",Indiana Pacers,127,Charlotte Hornets,118,1,0
+216,"Wed, Nov 19, 2025",Philadelphia 76ers,112,Toronto Raptors,121,0,1
+217,"Wed, Nov 19, 2025",Miami Heat,110,Golden State Warriors,96,1,0
+218,"Wed, Nov 19, 2025",Minnesota Timberwolves,120,Washington Wizards,109,1,0
+219,"Wed, Nov 19, 2025",New Orleans Pelicans,118,Denver Nuggets,125,0,1
+220,"Wed, Nov 19, 2025",Oklahoma City Thunder,113,Sacramento Kings,99,1,0
+221,"Wed, Nov 19, 2025",Dallas Mavericks,111,New York Knicks,113,0,1
+222,"Wed, Nov 19, 2025",Portland Trail Blazers,121,Chicago Bulls,122,0,1
+223,"Thu, Nov 20, 2025",Orlando Magic,129,Los Angeles Clippers,101,1,0
+224,"Thu, Nov 20, 2025",Memphis Grizzlies,137,Sacramento Kings,96,1,0
+225,"Thu, Nov 20, 2025",Milwaukee Bucks,114,Philadelphia 76ers,123,0,1
+226,"Thu, Nov 20, 2025",San Antonio Spurs,135,Atlanta Hawks,126,1,0
+227,"Fri, Nov 21, 2025",Cleveland Cavaliers,120,Indiana Pacers,109,1,0
+228,"Fri, Nov 21, 2025",Boston Celtics,105,Brooklyn Nets,113,0,1
+229,"Fri, Nov 21, 2025",Toronto Raptors,140,Washington Wizards,110,1,0
+230,"Fri, Nov 21, 2025",Chicago Bulls,107,Miami Heat,143,0,1
+231,"Fri, Nov 21, 2025",Dallas Mavericks,118,New Orleans Pelicans,115,1,0
+232,"Fri, Nov 21, 2025",Phoenix Suns,114,Minnesota Timberwolves,113,1,0
+233,"Fri, Nov 21, 2025",Houston Rockets,109,Denver Nuggets,112,0,1
+234,"Fri, Nov 21, 2025",Golden State Warriors,123,Portland Trail Blazers,127,0,1
+235,"Fri, Nov 21, 2025",Utah Jazz,112,Oklahoma City Thunder,144,0,1
+236,"Sat, Nov 22, 2025",Charlotte Hornets,116,Los Angeles Clippers,131,0,1
+237,"Sat, Nov 22, 2025",Orlando Magic,133,New York Knicks,121,1,0
+238,"Sat, Nov 22, 2025",New Orleans Pelicans,98,Atlanta Hawks,115,0,1
+239,"Sat, Nov 22, 2025",Chicago Bulls,121,Washington Wizards,120,1,0
+240,"Sat, Nov 22, 2025",Milwaukee Bucks,116,Detroit Pistons,129,0,1
+241,"Sat, Nov 22, 2025",Dallas Mavericks,96,Memphis Grizzlies,102,0,1
+242,"Sat, Nov 22, 2025",Denver Nuggets,123,Sacramento Kings,128,0,1
+243,"Sun, Nov 23, 2025",Philadelphia 76ers,117,Miami Heat,127,0,1
+244,"Sun, Nov 23, 2025",Atlanta Hawks,113,Charlotte Hornets,110,1,0
+245,"Sun, Nov 23, 2025",Boston Celtics,138,Orlando Magic,129,1,0
+246,"Sun, Nov 23, 2025",Cleveland Cavaliers,120,Los Angeles Clippers,105,1,0
+247,"Sun, Nov 23, 2025",Toronto Raptors,119,Brooklyn Nets,109,1,0
+248,"Sun, Nov 23, 2025",Oklahoma City Thunder,122,Portland Trail Blazers,95,1,0
+249,"Sun, Nov 23, 2025",Phoenix Suns,111,San Antonio Spurs,102,1,0
+250,"Sun, Nov 23, 2025",Utah Jazz,106,Los Angeles Lakers,108,0,1
+251,"Mon, Nov 24, 2025",Indiana Pacers,117,Detroit Pistons,122,0,1
+252,"Mon, Nov 24, 2025",Toronto Raptors,110,Cleveland Cavaliers,99,1,0
+253,"Mon, Nov 24, 2025",Brooklyn Nets,100,New York Knicks,113,0,1
+254,"Mon, Nov 24, 2025",Miami Heat,106,Dallas Mavericks,102,1,0
+255,"Mon, Nov 24, 2025",Memphis Grizzlies,115,Denver Nuggets,125,0,1
+256,"Mon, Nov 24, 2025",Milwaukee Bucks,103,Portland Trail Blazers,115,0,1
+257,"Mon, Nov 24, 2025",New Orleans Pelicans,143,Chicago Bulls,130,1,0
+258,"Mon, Nov 24, 2025",Phoenix Suns,92,Houston Rockets,114,0,1
+259,"Mon, Nov 24, 2025",Golden State Warriors,134,Utah Jazz,117,1,0
+260,"Mon, Nov 24, 2025",Sacramento Kings,117,Minnesota Timberwolves,112,1,0
+261,"Tue, Nov 25, 2025",Washington Wizards,132,Atlanta Hawks,113,1,0
+262,"Tue, Nov 25, 2025",Philadelphia 76ers,103,Orlando Magic,144,0,1
+263,"Tue, Nov 25, 2025",Los Angeles Lakers,135,Los Angeles Clippers,118,1,0
+264,"Wed, Nov 26, 2025",Boston Celtics,117,Detroit Pistons,114,1,0
+265,"Wed, Nov 26, 2025",Charlotte Hornets,101,New York Knicks,129,0,1
+266,"Wed, Nov 26, 2025",Miami Heat,106,Milwaukee Bucks,103,1,0
+267,"Wed, Nov 26, 2025",Oklahoma City Thunder,113,Minnesota Timberwolves,105,1,0
+268,"Wed, Nov 26, 2025",Toronto Raptors,97,Indiana Pacers,95,1,0
+269,"Wed, Nov 26, 2025",New Orleans Pelicans,128,Memphis Grizzlies,133,0,1
+270,"Wed, Nov 26, 2025",Golden State Warriors,100,Houston Rockets,104,0,1
+271,"Wed, Nov 26, 2025",Portland Trail Blazers,102,San Antonio Spurs,115,0,1
+272,"Wed, Nov 26, 2025",Sacramento Kings,100,Phoenix Suns,112,0,1
+273,"Fri, Nov 28, 2025",Atlanta Hawks,130,Cleveland Cavaliers,123,1,0
+274,"Fri, Nov 28, 2025",Brooklyn Nets,103,Philadelphia 76ers,115,0,1
+275,"Fri, Nov 28, 2025",Charlotte Hornets,123,Chicago Bulls,116,1,0
+276,"Fri, Nov 28, 2025",Detroit Pistons,109,Orlando Magic,112,0,1
+277,"Fri, Nov 28, 2025",Indiana Pacers,119,Washington Wizards,86,1,0
+278,"Fri, Nov 28, 2025",New York Knicks,118,Milwaukee Bucks,109,1,0
+279,"Fri, Nov 28, 2025",Denver Nuggets,136,San Antonio Spurs,139,0,1
+280,"Fri, Nov 28, 2025",Oklahoma City Thunder,123,Phoenix Suns,119,1,0
+281,"Fri, Nov 28, 2025",Utah Jazz,128,Sacramento Kings,119,1,0
+282,"Fri, Nov 28, 2025",Los Angeles Clippers,107,Memphis Grizzlies,112,0,1
+283,"Fri, Nov 28, 2025",Los Angeles Lakers,129,Dallas Mavericks,119,1,0
+284,"Sat, Nov 29, 2025",Minnesota Timberwolves,119,Boston Celtics,115,1,0
+285,"Sat, Nov 29, 2025",Charlotte Hornets,118,Toronto Raptors,111,1,0
+286,"Sat, Nov 29, 2025",Indiana Pacers,103,Chicago Bulls,101,1,0
+287,"Sat, Nov 29, 2025",Miami Heat,135,Detroit Pistons,138,0,1
+288,"Sat, Nov 29, 2025",Milwaukee Bucks,116,Brooklyn Nets,99,1,0
+289,"Sat, Nov 29, 2025",Golden State Warriors,104,New Orleans Pelicans,96,1,0
+290,"Sat, Nov 29, 2025",Phoenix Suns,112,Denver Nuggets,130,0,1
+291,"Sat, Nov 29, 2025",Los Angeles Clippers,110,Dallas Mavericks,114,0,1
+292,"Sun, Nov 30, 2025",Utah Jazz,101,Houston Rockets,129,0,1
+293,"Sun, Nov 30, 2025",Cleveland Cavaliers,115,Boston Celtics,117,0,1
+294,"Sun, Nov 30, 2025",New York Knicks,116,Toronto Raptors,94,1,0
+295,"Sun, Nov 30, 2025",Philadelphia 76ers,134,Atlanta Hawks,142,0,1
+296,"Sun, Nov 30, 2025",Portland Trail Blazers,115,Oklahoma City Thunder,123,0,1
+297,"Sun, Nov 30, 2025",Minnesota Timberwolves,125,San Antonio Spurs,112,1,0
+298,"Sun, Nov 30, 2025",Sacramento Kings,107,Memphis Grizzlies,115,0,1
+299,"Sun, Nov 30, 2025",Los Angeles Lakers,133,New Orleans Pelicans,121,1,0
+300,"Mon, Dec 1, 2025",Detroit Pistons,99,Atlanta Hawks,98,1,0
+301,"Mon, Dec 1, 2025",Indiana Pacers,119,Cleveland Cavaliers,135,0,1
+302,"Mon, Dec 1, 2025",Washington Wizards,129,Milwaukee Bucks,126,1,0
+303,"Mon, Dec 1, 2025",Brooklyn Nets,116,Charlotte Hornets,103,1,0
+304,"Mon, Dec 1, 2025",Miami Heat,140,Los Angeles Clippers,123,1,0
+305,"Mon, Dec 1, 2025",Orlando Magic,125,Chicago Bulls,120,1,0
+306,"Mon, Dec 1, 2025",Denver Nuggets,121,Dallas Mavericks,131,0,1
+307,"Mon, Dec 1, 2025",Utah Jazz,133,Houston Rockets,125,1,0
+308,"Mon, Dec 1, 2025",Los Angeles Lakers,108,Phoenix Suns,125,0,1
+309,"Tue, Dec 2, 2025",Philadelphia 76ers,121,Washington Wizards,102,1,0
+310,"Tue, Dec 2, 2025",Toronto Raptors,121,Portland Trail Blazers,118,1,0
+311,"Tue, Dec 2, 2025",Boston Celtics,123,New York Knicks,117,1,0
+312,"Tue, Dec 2, 2025",New Orleans Pelicans,142,Minnesota Timberwolves,149,0,1
+313,"Tue, Dec 2, 2025",San Antonio Spurs,126,Memphis Grizzlies,119,1,0
+314,"Tue, Dec 2, 2025",Golden State Warriors,112,Oklahoma City Thunder,124,0,1
+315,"Wed, Dec 3, 2025",Cleveland Cavaliers,110,Portland Trail Blazers,122,0,1
+316,"Wed, Dec 3, 2025",Indiana Pacers,120,Denver Nuggets,135,0,1
+317,"Wed, Dec 3, 2025",Orlando Magic,112,San Antonio Spurs,114,0,1
+318,"Wed, Dec 3, 2025",Atlanta Hawks,92,Los Angeles Clippers,115,0,1
+319,"Wed, Dec 3, 2025",New York Knicks,119,Charlotte Hornets,104,1,0
+320,"Wed, Dec 3, 2025",Chicago Bulls,103,Brooklyn Nets,113,0,1
+321,"Wed, Dec 3, 2025",Houston Rockets,121,Sacramento Kings,95,1,0
+322,"Wed, Dec 3, 2025",Milwaukee Bucks,113,Detroit Pistons,109,1,0
+323,"Wed, Dec 3, 2025",Dallas Mavericks,118,Miami Heat,108,1,0
+324,"Thu, Dec 4, 2025",Philadelphia 76ers,99,Golden State Warriors,98,1,0
+325,"Thu, Dec 4, 2025",Washington Wizards,101,Boston Celtics,146,0,1
+326,"Thu, Dec 4, 2025",Brooklyn Nets,110,Utah Jazz,123,0,1
+327,"Thu, Dec 4, 2025",Toronto Raptors,120,Los Angeles Lakers,123,0,1
+328,"Thu, Dec 4, 2025",New Orleans Pelicans,116,Minnesota Timberwolves,125,0,1
+329,"Fri, Dec 5, 2025",Boston Celtics,126,Los Angeles Lakers,105,1,0
+330,"Fri, Dec 5, 2025",Orlando Magic,106,Miami Heat,105,1,0
+331,"Fri, Dec 5, 2025",Atlanta Hawks,133,Denver Nuggets,134,0,1
+332,"Fri, Dec 5, 2025",Cleveland Cavaliers,130,San Antonio Spurs,117,1,0
+333,"Fri, Dec 5, 2025",Detroit Pistons,122,Portland Trail Blazers,116,1,0
+334,"Fri, Dec 5, 2025",New York Knicks,146,Utah Jazz,112,1,0
+335,"Fri, Dec 5, 2025",Toronto Raptors,86,Charlotte Hornets,111,0,1
+336,"Fri, Dec 5, 2025",Chicago Bulls,105,Indiana Pacers,120,0,1
+337,"Fri, Dec 5, 2025",Houston Rockets,117,Phoenix Suns,98,1,0
+338,"Fri, Dec 5, 2025",Memphis Grizzlies,107,Los Angeles Clippers,98,1,0
+339,"Fri, Dec 5, 2025",Milwaukee Bucks,101,Philadelphia 76ers,116,0,1
+340,"Fri, Dec 5, 2025",Oklahoma City Thunder,132,Dallas Mavericks,111,1,0
+341,"Sat, Dec 6, 2025",Brooklyn Nets,119,New Orleans Pelicans,101,1,0
+342,"Sat, Dec 6, 2025",Washington Wizards,116,Atlanta Hawks,131,0,1
+343,"Sat, Dec 6, 2025",Cleveland Cavaliers,94,Golden State Warriors,99,0,1
+344,"Sat, Dec 6, 2025",Detroit Pistons,124,Milwaukee Bucks,112,1,0
+345,"Sat, Dec 6, 2025",Miami Heat,111,Sacramento Kings,127,0,1
+346,"Sat, Dec 6, 2025",Minnesota Timberwolves,109,Los Angeles Clippers,106,1,0
+347,"Sat, Dec 6, 2025",Dallas Mavericks,122,Houston Rockets,109,1,0
+348,"Sun, Dec 7, 2025",New York Knicks,106,Orlando Magic,100,1,0
+349,"Sun, Dec 7, 2025",Toronto Raptors,113,Boston Celtics,121,0,1
+350,"Sun, Dec 7, 2025",Charlotte Hornets,106,Denver Nuggets,115,0,1
+351,"Sun, Dec 7, 2025",Memphis Grizzlies,119,Portland Trail Blazers,96,1,0
+352,"Sun, Dec 7, 2025",Chicago Bulls,91,Golden State Warriors,123,0,1
+353,"Sun, Dec 7, 2025",Philadelphia 76ers,108,Los Angeles Lakers,112,0,1
+354,"Sun, Dec 7, 2025",Utah Jazz,101,Oklahoma City Thunder,131,0,1
+355,"Mon, Dec 8, 2025",Indiana Pacers,116,Sacramento Kings,105,1,0
+356,"Mon, Dec 8, 2025",Minnesota Timberwolves,105,Phoenix Suns,108,0,1
+357,"Mon, Dec 8, 2025",New Orleans Pelicans,132,San Antonio Spurs,135,0,1
+358,"Tue, Dec 9, 2025",Orlando Magic,117,Miami Heat,108,1,0
+359,"Tue, Dec 9, 2025",Toronto Raptors,101,New York Knicks,117,0,1
+360,"Wed, Dec 10, 2025",Oklahoma City Thunder,138,Phoenix Suns,89,1,0
+361,"Wed, Dec 10, 2025",Los Angeles Lakers,119,San Antonio Spurs,132,0,1
+362,"Thu, Dec 11, 2025",Houston Rockets,115,Los Angeles Clippers,113,1,0
+363,"Thu, Dec 11, 2025",Milwaukee Bucks,116,Boston Celtics,101,1,0
+364,"Thu, Dec 11, 2025",New Orleans Pelicans,143,Portland Trail Blazers,120,1,0
+365,"Thu, Dec 11, 2025",Sacramento Kings,105,Denver Nuggets,136,0,1
+366,"Fri, Dec 12, 2025",Charlotte Hornets,126,Chicago Bulls,129,0,1
+367,"Fri, Dec 12, 2025",Detroit Pistons,142,Atlanta Hawks,115,1,0
+368,"Fri, Dec 12, 2025",Philadelphia 76ers,115,Indiana Pacers,105,1,0
+369,"Fri, Dec 12, 2025",Washington Wizards,126,Cleveland Cavaliers,130,0,1
+370,"Fri, Dec 12, 2025",Memphis Grizzlies,126,Utah Jazz,130,0,1
+371,"Fri, Dec 12, 2025",Dallas Mavericks,119,Brooklyn Nets,111,1,0
+372,"Fri, Dec 12, 2025",Golden State Warriors,120,Minnesota Timberwolves,127,0,1
+373,"Sat, Dec 13, 2025",Orlando Magic,120,New York Knicks,132,0,1
+374,"Sat, Dec 13, 2025",Oklahoma City Thunder,109,San Antonio Spurs,111,0,1
+375,"Sun, Dec 14, 2025",Indiana Pacers,89,Washington Wizards,108,0,1
+376,"Sun, Dec 14, 2025",Cleveland Cavaliers,111,Charlotte Hornets,119,0,1
+377,"Sun, Dec 14, 2025",Atlanta Hawks,120,Philadelphia 76ers,117,1,0
+378,"Sun, Dec 14, 2025",Brooklyn Nets,127,Milwaukee Bucks,82,1,0
+379,"Sun, Dec 14, 2025",Chicago Bulls,104,New Orleans Pelicans,114,0,1
+380,"Sun, Dec 14, 2025",Minnesota Timberwolves,117,Sacramento Kings,103,1,0
+381,"Sun, Dec 14, 2025",Phoenix Suns,114,Los Angeles Lakers,116,0,1
+382,"Sun, Dec 14, 2025",Portland Trail Blazers,136,Golden State Warriors,131,1,0
+383,"Mon, Dec 15, 2025",Boston Celtics,105,Detroit Pistons,112,0,1
+384,"Mon, Dec 15, 2025",Miami Heat,96,Toronto Raptors,106,0,1
+385,"Mon, Dec 15, 2025",Utah Jazz,140,Dallas Mavericks,133,1,0
+386,"Mon, Dec 15, 2025",Denver Nuggets,128,Houston Rockets,125,1,0
+387,"Mon, Dec 15, 2025",Los Angeles Clippers,103,Memphis Grizzlies,121,0,1
+388,"Tue, Dec 16, 2025",New York Knicks,124,San Antonio Spurs,113,1,0
+389,"Wed, Dec 17, 2025",Chicago Bulls,127,Cleveland Cavaliers,111,1,0
+390,"Wed, Dec 17, 2025",Minnesota Timberwolves,110,Memphis Grizzlies,116,0,1
+391,"Thu, Dec 18, 2025",Charlotte Hornets,133,Atlanta Hawks,126,1,0
+392,"Thu, Dec 18, 2025",Indiana Pacers,113,New York Knicks,114,0,1
+393,"Thu, Dec 18, 2025",Brooklyn Nets,95,Miami Heat,106,0,1
+394,"Thu, Dec 18, 2025",Milwaukee Bucks,105,Toronto Raptors,111,0,1
+395,"Thu, Dec 18, 2025",New Orleans Pelicans,133,Houston Rockets,128,1,0
+396,"Thu, Dec 18, 2025",Oklahoma City Thunder,122,Los Angeles Clippers,101,1,0
+397,"Thu, Dec 18, 2025",San Antonio Spurs,119,Washington Wizards,94,1,0
+398,"Thu, Dec 18, 2025",Dallas Mavericks,116,Detroit Pistons,114,1,0
+399,"Thu, Dec 18, 2025",Denver Nuggets,126,Orlando Magic,115,1,0
+400,"Thu, Dec 18, 2025",Phoenix Suns,99,Golden State Warriors,98,1,0
+401,"Thu, Dec 18, 2025",Utah Jazz,135,Los Angeles Lakers,143,0,1
+402,"Thu, Dec 18, 2025",Portland Trail Blazers,134,Sacramento Kings,133,1,0
+403,"Fri, Dec 19, 2025",Boston Celtics,129,Miami Heat,116,1,0
+404,"Fri, Dec 19, 2025",New York Knicks,107,Philadelphia 76ers,116,0,1
+405,"Fri, Dec 19, 2025",Atlanta Hawks,98,San Antonio Spurs,126,0,1
+406,"Fri, Dec 19, 2025",Cleveland Cavaliers,125,Chicago Bulls,136,0,1
+407,"Fri, Dec 19, 2025",Minnesota Timberwolves,112,Oklahoma City Thunder,107,1,0
+408,"Sat, Dec 20, 2025",Denver Nuggets,101,Houston Rockets,115,0,1
+409,"Sat, Dec 20, 2025",New Orleans Pelicans,128,Indiana Pacers,109,1,0
+410,"Sat, Dec 20, 2025",Philadelphia 76ers,121,Dallas Mavericks,114,1,0
+411,"Sat, Dec 20, 2025",Toronto Raptors,96,Boston Celtics,112,0,1
+412,"Sat, Dec 20, 2025",Detroit Pistons,112,Charlotte Hornets,86,1,0
+413,"Sat, Dec 20, 2025",Memphis Grizzlies,122,Washington Wizards,130,0,1
+414,"Sat, Dec 20, 2025",Golden State Warriors,119,Phoenix Suns,116,1,0
+415,"Sat, Dec 20, 2025",Utah Jazz,127,Orlando Magic,128,0,1
+416,"Sat, Dec 20, 2025",Sacramento Kings,93,Portland Trail Blazers,98,0,1
+417,"Sat, Dec 20, 2025",Los Angeles Clippers,103,Los Angeles Lakers,88,1,0
+418,"Sun, Dec 21, 2025",Atlanta Hawks,150,Chicago Bulls,152,0,1
+419,"Sun, Dec 21, 2025",Brooklyn Nets,96,Toronto Raptors,81,1,0
+420,"Sun, Dec 21, 2025",New York Knicks,132,Miami Heat,125,1,0
+421,"Sun, Dec 21, 2025",Minnesota Timberwolves,103,Milwaukee Bucks,100,1,0
+422,"Sun, Dec 21, 2025",Washington Wizards,113,San Antonio Spurs,124,0,1
+423,"Sun, Dec 21, 2025",Sacramento Kings,125,Houston Rockets,124,1,0
+424,"Mon, Dec 22, 2025",Cleveland Cavaliers,139,Charlotte Hornets,132,1,0
+425,"Mon, Dec 22, 2025",Boston Celtics,103,Indiana Pacers,95,1,0
+426,"Mon, Dec 22, 2025",New Orleans Pelicans,119,Dallas Mavericks,113,1,0
+427,"Mon, Dec 22, 2025",Denver Nuggets,135,Utah Jazz,112,1,0
+428,"Mon, Dec 22, 2025",Oklahoma City Thunder,119,Memphis Grizzlies,103,1,0
+429,"Mon, Dec 22, 2025",Golden State Warriors,120,Orlando Magic,97,1,0
+430,"Mon, Dec 22, 2025",Portland Trail Blazers,102,Detroit Pistons,110,0,1
+431,"Tue, Dec 23, 2025",Charlotte Hornets,126,Washington Wizards,109,1,0
+432,"Tue, Dec 23, 2025",Philadelphia 76ers,106,Brooklyn Nets,114,0,1
+433,"Tue, Dec 23, 2025",Atlanta Hawks,123,Chicago Bulls,126,0,1
+434,"Tue, Dec 23, 2025",Cleveland Cavaliers,141,New Orleans Pelicans,118,1,0
+435,"Tue, Dec 23, 2025",Indiana Pacers,94,Milwaukee Bucks,111,0,1
+436,"Tue, Dec 23, 2025",Miami Heat,91,Toronto Raptors,112,0,1
+437,"Tue, Dec 23, 2025",Dallas Mavericks,131,Denver Nuggets,130,1,0
+438,"Tue, Dec 23, 2025",Minnesota Timberwolves,115,New York Knicks,104,1,0
+439,"Tue, Dec 23, 2025",San Antonio Spurs,130,Oklahoma City Thunder,110,1,0
+440,"Tue, Dec 23, 2025",Phoenix Suns,132,Los Angeles Lakers,108,1,0
+441,"Tue, Dec 23, 2025",Utah Jazz,128,Memphis Grizzlies,137,0,1
+442,"Tue, Dec 23, 2025",Portland Trail Blazers,106,Orlando Magic,110,0,1
+443,"Tue, Dec 23, 2025",Sacramento Kings,127,Detroit Pistons,136,0,1
+444,"Tue, Dec 23, 2025",Los Angeles Clippers,128,Houston Rockets,108,1,0
+445,"Thu, Dec 25, 2025",New York Knicks,126,Cleveland Cavaliers,124,1,0
+446,"Thu, Dec 25, 2025",Oklahoma City Thunder,102,San Antonio Spurs,117,0,1
+447,"Thu, Dec 25, 2025",Golden State Warriors,126,Dallas Mavericks,116,1,0
+448,"Thu, Dec 25, 2025",Los Angeles Lakers,96,Houston Rockets,119,0,1
+449,"Thu, Dec 25, 2025",Denver Nuggets,142,Minnesota Timberwolves,138,1,0
+450,"Fri, Dec 26, 2025",Atlanta Hawks,111,Miami Heat,126,0,1
+451,"Fri, Dec 26, 2025",Indiana Pacers,122,Boston Celtics,140,0,1
+452,"Fri, Dec 26, 2025",Orlando Magic,105,Charlotte Hornets,120,0,1
+453,"Fri, Dec 26, 2025",Washington Wizards,138,Toronto Raptors,117,1,0
+454,"Fri, Dec 26, 2025",Chicago Bulls,109,Philadelphia 76ers,102,1,0
+455,"Fri, Dec 26, 2025",Memphis Grizzlies,125,Milwaukee Bucks,104,1,0
+456,"Fri, Dec 26, 2025",New Orleans Pelicans,108,Phoenix Suns,115,0,1
+457,"Fri, Dec 26, 2025",Utah Jazz,131,Detroit Pistons,129,1,0
+458,"Fri, Dec 26, 2025",Portland Trail Blazers,103,Los Angeles Clippers,119,0,1
+459,"Sat, Dec 27, 2025",Sacramento Kings,113,Dallas Mavericks,107,1,0
+460,"Sat, Dec 27, 2025",New Orleans Pelicans,114,Phoenix Suns,123,0,1
+461,"Sat, Dec 27, 2025",Orlando Magic,127,Denver Nuggets,126,1,0
+462,"Sat, Dec 27, 2025",Atlanta Hawks,125,New York Knicks,128,0,1
+463,"Sat, Dec 27, 2025",Chicago Bulls,103,Milwaukee Bucks,112,0,1
+464,"Sat, Dec 27, 2025",Houston Rockets,117,Cleveland Cavaliers,100,1,0
+465,"Sat, Dec 27, 2025",Miami Heat,142,Indiana Pacers,116,1,0
+466,"Sat, Dec 27, 2025",Minnesota Timberwolves,107,Brooklyn Nets,123,0,1
+467,"Sat, Dec 27, 2025",San Antonio Spurs,114,Utah Jazz,127,0,1
+468,"Sun, Dec 28, 2025",Oklahoma City Thunder,129,Philadelphia 76ers,104,1,0
+469,"Sun, Dec 28, 2025",Toronto Raptors,141,Golden State Warriors,127,1,0
+470,"Sun, Dec 28, 2025",Portland Trail Blazers,114,Boston Celtics,108,1,0
+471,"Sun, Dec 28, 2025",Washington Wizards,116,Memphis Grizzlies,112,1,0
+472,"Sun, Dec 28, 2025",Los Angeles Clippers,112,Detroit Pistons,99,1,0
+473,"Sun, Dec 28, 2025",Los Angeles Lakers,125,Sacramento Kings,101,1,0
+474,"Mon, Dec 29, 2025",Charlotte Hornets,113,Milwaukee Bucks,123,0,1
+475,"Mon, Dec 29, 2025",Washington Wizards,101,Phoenix Suns,115,0,1
+476,"Mon, Dec 29, 2025",Brooklyn Nets,107,Golden State Warriors,120,0,1
+477,"Mon, Dec 29, 2025",Miami Heat,147,Denver Nuggets,123,1,0
+478,"Mon, Dec 29, 2025",Toronto Raptors,107,Orlando Magic,106,1,0
+479,"Mon, Dec 29, 2025",Chicago Bulls,101,Minnesota Timberwolves,136,0,1
+480,"Mon, Dec 29, 2025",Houston Rockets,126,Indiana Pacers,119,1,0
+481,"Mon, Dec 29, 2025",New Orleans Pelicans,125,New York Knicks,130,0,1
+482,"Mon, Dec 29, 2025",Oklahoma City Thunder,140,Atlanta Hawks,129,1,0
+483,"Mon, Dec 29, 2025",San Antonio Spurs,101,Cleveland Cavaliers,113,0,1
+484,"Mon, Dec 29, 2025",Portland Trail Blazers,125,Dallas Mavericks,122,1,0
+485,"Tue, Dec 30, 2025",Memphis Grizzlies,136,Philadelphia 76ers,139,0,1
+486,"Tue, Dec 30, 2025",Utah Jazz,119,Boston Celtics,129,0,1
+487,"Tue, Dec 30, 2025",Los Angeles Lakers,106,Detroit Pistons,128,0,1
+488,"Tue, Dec 30, 2025",Los Angeles Clippers,131,Sacramento Kings,90,1,0
+489,"Wed, Dec 31, 2025",Charlotte Hornets,125,Golden State Warriors,132,0,1
+490,"Wed, Dec 31, 2025",Atlanta Hawks,126,Minnesota Timberwolves,102,1,0
+491,"Wed, Dec 31, 2025",Indiana Pacers,110,Orlando Magic,112,0,1
+492,"Wed, Dec 31, 2025",Cleveland Cavaliers,129,Phoenix Suns,113,1,0
+493,"Wed, Dec 31, 2025",Chicago Bulls,134,New Orleans Pelicans,118,1,0
+494,"Wed, Dec 31, 2025",San Antonio Spurs,134,New York Knicks,132,1,0
+495,"Wed, Dec 31, 2025",Toronto Raptors,103,Denver Nuggets,106,0,1
+496,"Wed, Dec 31, 2025",Milwaukee Bucks,113,Washington Wizards,114,0,1
+497,"Wed, Dec 31, 2025",Oklahoma City Thunder,124,Portland Trail Blazers,95,1,0
+498,"Thu, Jan 1, 2026",Brooklyn Nets,96,Houston Rockets,120,0,1
+499,"Thu, Jan 1, 2026",Detroit Pistons,112,Miami Heat,118,0,1
+500,"Thu, Jan 1, 2026",Dallas Mavericks,108,Philadelphia 76ers,123,0,1
+501,"Thu, Jan 1, 2026",Sacramento Kings,106,Boston Celtics,120,0,1
+502,"Thu, Jan 1, 2026",Los Angeles Clippers,118,Utah Jazz,101,1,0
+503,"Fri, Jan 2, 2026",Indiana Pacers,113,San Antonio Spurs,123,0,1
+504,"Fri, Jan 2, 2026",Washington Wizards,119,Brooklyn Nets,99,1,0
+505,"Fri, Jan 2, 2026",Cleveland Cavaliers,113,Denver Nuggets,108,1,0
+506,"Fri, Jan 2, 2026",New York Knicks,99,Atlanta Hawks,111,0,1
+507,"Fri, Jan 2, 2026",Chicago Bulls,121,Orlando Magic,114,1,0
+508,"Fri, Jan 2, 2026",Milwaukee Bucks,122,Charlotte Hornets,121,1,0
+509,"Fri, Jan 2, 2026",New Orleans Pelicans,109,Portland Trail Blazers,122,0,1
+510,"Fri, Jan 2, 2026",Phoenix Suns,129,Sacramento Kings,102,1,0
+511,"Fri, Jan 2, 2026",Golden State Warriors,94,Oklahoma City Thunder,131,0,1
+512,"Fri, Jan 2, 2026",Los Angeles Lakers,128,Memphis Grizzlies,121,1,0
+513,"Sat, Jan 3, 2026",Miami Heat,115,Minnesota Timberwolves,125,0,1
+514,"Sat, Jan 3, 2026",New York Knicks,119,Philadelphia 76ers,130,0,1
+515,"Sat, Jan 3, 2026",Toronto Raptors,134,Atlanta Hawks,117,1,0
+516,"Sat, Jan 3, 2026",Chicago Bulls,99,Charlotte Hornets,112,0,1
+517,"Sat, Jan 3, 2026",San Antonio Spurs,110,Portland Trail Blazers,115,0,1
+518,"Sat, Jan 3, 2026",Dallas Mavericks,110,Houston Rockets,104,1,0
+519,"Sat, Jan 3, 2026",Golden State Warriors,123,Utah Jazz,114,1,0
+520,"Sat, Jan 3, 2026",Los Angeles Clippers,115,Boston Celtics,146,0,1
+521,"Sun, Jan 4, 2026",Cleveland Cavaliers,110,Detroit Pistons,114,0,1
+522,"Sun, Jan 4, 2026",Orlando Magic,135,Indiana Pacers,127,1,0
+523,"Sun, Jan 4, 2026",Brooklyn Nets,127,Denver Nuggets,115,1,0
+524,"Sun, Jan 4, 2026",Miami Heat,125,New Orleans Pelicans,106,1,0
+525,"Sun, Jan 4, 2026",Washington Wizards,115,Minnesota Timberwolves,141,0,1
+526,"Sun, Jan 4, 2026",Phoenix Suns,108,Oklahoma City Thunder,105,1,0
+527,"Sun, Jan 4, 2026",Sacramento Kings,98,Milwaukee Bucks,115,0,1
+528,"Sun, Jan 4, 2026",Los Angeles Lakers,120,Memphis Grizzlies,114,1,0
+529,"Mon, Jan 5, 2026",Detroit Pistons,121,New York Knicks,90,1,0
+530,"Mon, Jan 5, 2026",Boston Celtics,115,Chicago Bulls,101,1,0
+531,"Mon, Jan 5, 2026",Toronto Raptors,118,Atlanta Hawks,100,1,0
+532,"Mon, Jan 5, 2026",Houston Rockets,100,Phoenix Suns,97,1,0
+533,"Mon, Jan 5, 2026",Oklahoma City Thunder,97,Charlotte Hornets,124,0,1
+534,"Mon, Jan 5, 2026",Philadelphia 76ers,124,Denver Nuggets,125,0,1
+535,"Mon, Jan 5, 2026",Los Angeles Clippers,103,Golden State Warriors,102,1,0
+536,"Mon, Jan 5, 2026",Portland Trail Blazers,137,Utah Jazz,117,1,0
+537,"Tue, Jan 6, 2026",Indiana Pacers,116,Cleveland Cavaliers,120,0,1
+538,"Tue, Jan 6, 2026",Washington Wizards,120,Orlando Magic,112,1,0
+539,"Tue, Jan 6, 2026",Memphis Grizzlies,106,San Antonio Spurs,105,1,0
+540,"Tue, Jan 6, 2026",Minnesota Timberwolves,122,Miami Heat,94,1,0
+541,"Tue, Jan 6, 2026",New Orleans Pelicans,103,Los Angeles Lakers,111,0,1
+542,"Tue, Jan 6, 2026",Sacramento Kings,98,Dallas Mavericks,100,0,1
+543,"Wed, Jan 7, 2026",Boston Celtics,110,Denver Nuggets,114,0,1
+544,"Wed, Jan 7, 2026",Charlotte Hornets,96,Toronto Raptors,97,0,1
+545,"Wed, Jan 7, 2026",Detroit Pistons,108,Chicago Bulls,93,1,0
+546,"Wed, Jan 7, 2026",Philadelphia 76ers,131,Washington Wizards,110,1,0
+547,"Wed, Jan 7, 2026",Atlanta Hawks,117,New Orleans Pelicans,100,1,0
+548,"Wed, Jan 7, 2026",Brooklyn Nets,103,Orlando Magic,104,0,1
+549,"Wed, Jan 7, 2026",New York Knicks,123,Los Angeles Clippers,111,1,0
+550,"Wed, Jan 7, 2026",Memphis Grizzlies,98,Phoenix Suns,117,0,1
+551,"Wed, Jan 7, 2026",Oklahoma City Thunder,129,Utah Jazz,125,1,0
+552,"Wed, Jan 7, 2026",San Antonio Spurs,107,Los Angeles Lakers,91,1,0
+553,"Wed, Jan 7, 2026",Golden State Warriors,120,Milwaukee Bucks,113,1,0
+554,"Wed, Jan 7, 2026",Portland Trail Blazers,103,Houston Rockets,102,1,0
+555,"Thu, Jan 8, 2026",Charlotte Hornets,112,Indiana Pacers,114,0,1
+556,"Thu, Jan 8, 2026",Minnesota Timberwolves,131,Cleveland Cavaliers,122,1,0
+557,"Thu, Jan 8, 2026",Utah Jazz,116,Dallas Mavericks,114,1,0
+558,"Fri, Jan 9, 2026",Boston Celtics,125,Toronto Raptors,117,1,0
+559,"Fri, Jan 9, 2026",Orlando Magic,91,Philadelphia 76ers,103,0,1
+560,"Fri, Jan 9, 2026",Washington Wizards,107,New Orleans Pelicans,128,0,1
+561,"Fri, Jan 9, 2026",Brooklyn Nets,105,Los Angeles Clippers,121,0,1
+562,"Fri, Jan 9, 2026",Memphis Grizzlies,116,Oklahoma City Thunder,117,0,1
+563,"Fri, Jan 9, 2026",Denver Nuggets,87,Atlanta Hawks,110,0,1
+564,"Fri, Jan 9, 2026",Phoenix Suns,112,New York Knicks,107,1,0
+565,"Fri, Jan 9, 2026",Golden State Warriors,137,Sacramento Kings,103,1,0
+566,"Fri, Jan 9, 2026",Portland Trail Blazers,111,Houston Rockets,105,1,0
+567,"Fri, Jan 9, 2026",Los Angeles Lakers,101,Milwaukee Bucks,105,0,1
+568,"Sat, Jan 10, 2026",Cleveland Cavaliers,146,Minnesota Timberwolves,134,1,0
+569,"Sat, Jan 10, 2026",Indiana Pacers,123,Miami Heat,99,1,0
+570,"Sat, Jan 10, 2026",Detroit Pistons,92,Los Angeles Clippers,98,0,1
+571,"Sat, Jan 10, 2026",Boston Celtics,95,San Antonio Spurs,100,0,1
+572,"Sat, Jan 10, 2026",Chicago Bulls,125,Dallas Mavericks,107,1,0
+573,"Sat, Jan 10, 2026",Utah Jazz,95,Charlotte Hornets,150,0,1
+574,"Sun, Jan 11, 2026",Orlando Magic,128,New Orleans Pelicans,118,1,0
+575,"Sun, Jan 11, 2026",Memphis Grizzlies,103,Brooklyn Nets,98,1,0
+576,"Sun, Jan 11, 2026",Portland Trail Blazers,114,New York Knicks,123,0,1
+577,"Sun, Jan 11, 2026",Toronto Raptors,116,Philadelphia 76ers,115,1,0
+578,"Sun, Jan 11, 2026",Minnesota Timberwolves,104,San Antonio Spurs,103,1,0
+579,"Sun, Jan 11, 2026",Oklahoma City Thunder,124,Miami Heat,112,1,0
+580,"Sun, Jan 11, 2026",Denver Nuggets,108,Milwaukee Bucks,104,1,0
+581,"Sun, Jan 11, 2026",Phoenix Suns,112,Washington Wizards,93,1,0
+582,"Sun, Jan 11, 2026",Golden State Warriors,111,Atlanta Hawks,124,0,1
+583,"Sun, Jan 11, 2026",Sacramento Kings,111,Houston Rockets,98,1,0
+584,"Mon, Jan 12, 2026",Cleveland Cavaliers,112,Utah Jazz,123,0,1
+585,"Mon, Jan 12, 2026",Indiana Pacers,98,Boston Celtics,96,1,0
+586,"Mon, Jan 12, 2026",Toronto Raptors,102,Philadelphia 76ers,115,0,1
+587,"Mon, Jan 12, 2026",Dallas Mavericks,113,Brooklyn Nets,105,1,0
+588,"Mon, Jan 12, 2026",Sacramento Kings,124,Los Angeles Lakers,112,1,0
+589,"Mon, Jan 12, 2026",Los Angeles Clippers,117,Charlotte Hornets,109,1,0
+590,"Tue, Jan 13, 2026",Miami Heat,127,Phoenix Suns,121,1,0
+591,"Tue, Jan 13, 2026",Houston Rockets,119,Chicago Bulls,113,1,0
+592,"Tue, Jan 13, 2026",Milwaukee Bucks,106,Minnesota Timberwolves,139,0,1
+593,"Tue, Jan 13, 2026",New Orleans Pelicans,116,Denver Nuggets,122,0,1
+594,"Tue, Jan 13, 2026",Oklahoma City Thunder,119,San Antonio Spurs,98,1,0
+595,"Tue, Jan 13, 2026",Los Angeles Lakers,141,Atlanta Hawks,116,1,0
+596,"Tue, Jan 13, 2026",Golden State Warriors,119,Portland Trail Blazers,97,1,0
+597,"Wed, Jan 14, 2026",Indiana Pacers,101,Toronto Raptors,115,0,1
+598,"Wed, Jan 14, 2026",Philadelphia 76ers,107,Cleveland Cavaliers,133,0,1
+599,"Wed, Jan 14, 2026",Chicago Bulls,128,Utah Jazz,126,1,0
+600,"Wed, Jan 14, 2026",New Orleans Pelicans,116,Brooklyn Nets,113,1,0
+601,"Wed, Jan 14, 2026",Dallas Mavericks,109,Denver Nuggets,118,0,1
+602,"Wed, Jan 14, 2026",Sacramento Kings,112,New York Knicks,101,1,0
+603,"Wed, Jan 14, 2026",Los Angeles Clippers,119,Washington Wizards,105,1,0
+604,"Thu, Jan 15, 2026",Orlando Magic,118,Memphis Grizzlies,111,1,0
+605,"Thu, Jan 15, 2026",Detroit Pistons,108,Phoenix Suns,105,1,0
+606,"Thu, Jan 15, 2026",Houston Rockets,91,Oklahoma City Thunder,111,0,1
+607,"Thu, Jan 15, 2026",Miami Heat,114,Boston Celtics,119,0,1
+608,"Thu, Jan 15, 2026",San Antonio Spurs,119,Milwaukee Bucks,101,1,0
+609,"Thu, Jan 15, 2026",Dallas Mavericks,144,Utah Jazz,122,1,0
+610,"Thu, Jan 15, 2026",Golden State Warriors,126,New York Knicks,113,1,0
+611,"Thu, Jan 15, 2026",Portland Trail Blazers,117,Atlanta Hawks,101,1,0
+612,"Thu, Jan 15, 2026",Los Angeles Lakers,117,Charlotte Hornets,135,0,1
+613,"Fri, Jan 16, 2026",Indiana Pacers,127,New Orleans Pelicans,119,1,0
+614,"Fri, Jan 16, 2026",Philadelphia 76ers,115,Cleveland Cavaliers,117,0,1
+615,"Fri, Jan 16, 2026",Brooklyn Nets,112,Chicago Bulls,109,1,0
+616,"Fri, Jan 16, 2026",Toronto Raptors,117,Los Angeles Clippers,121,0,1
+617,"Fri, Jan 16, 2026",Houston Rockets,110,Minnesota Timberwolves,105,1,0
+618,"Fri, Jan 16, 2026",Sacramento Kings,128,Washington Wizards,115,1,0
+619,"Sat, Jan 17, 2026",Dallas Mavericks,138,Utah Jazz,120,1,0
+620,"Sat, Jan 17, 2026",Atlanta Hawks,106,Boston Celtics,132,0,1
+621,"Sat, Jan 17, 2026",Detroit Pistons,121,Indiana Pacers,78,1,0
+622,"Sat, Jan 17, 2026",New York Knicks,99,Phoenix Suns,106,0,1
+623,"Sat, Jan 17, 2026",Miami Heat,122,Oklahoma City Thunder,120,1,0
+624,"Sat, Jan 17, 2026",San Antonio Spurs,126,Minnesota Timberwolves,123,1,0
+625,"Sat, Jan 17, 2026",Golden State Warriors,136,Charlotte Hornets,116,1,0
+626,"Sat, Jan 17, 2026",Denver Nuggets,121,Washington Wizards,115,1,0
+627,"Sat, Jan 17, 2026",Portland Trail Blazers,132,Los Angeles Lakers,116,1,0
+628,"Sun, Jan 18, 2026",Memphis Grizzlies,126,Orlando Magic,109,1,0
+629,"Sun, Jan 18, 2026",Chicago Bulls,124,Brooklyn Nets,102,1,0
+630,"Sun, Jan 18, 2026",Houston Rockets,119,New Orleans Pelicans,110,1,0
+631,"Sun, Jan 18, 2026",Denver Nuggets,87,Charlotte Hornets,110,0,1
+632,"Sun, Jan 18, 2026",Sacramento Kings,110,Portland Trail Blazers,117,0,1
+633,"Sun, Jan 18, 2026",Los Angeles Lakers,110,Toronto Raptors,93,1,0
+634,"Mon, Jan 19, 2026",Atlanta Hawks,110,Milwaukee Bucks,112,0,1
+635,"Mon, Jan 19, 2026",Cleveland Cavaliers,104,Oklahoma City Thunder,136,0,1
+636,"Mon, Jan 19, 2026",Washington Wizards,106,Los Angeles Clippers,110,0,1
+637,"Mon, Jan 19, 2026",New York Knicks,97,Dallas Mavericks,114,0,1
+638,"Mon, Jan 19, 2026",San Antonio Spurs,123,Utah Jazz,110,1,0
+639,"Mon, Jan 19, 2026",Philadelphia 76ers,113,Indiana Pacers,104,1,0
+640,"Mon, Jan 19, 2026",Brooklyn Nets,117,Phoenix Suns,126,0,1
+641,"Mon, Jan 19, 2026",Detroit Pistons,104,Boston Celtics,103,1,0
+642,"Mon, Jan 19, 2026",Golden State Warriors,135,Miami Heat,112,1,0
+643,"Tue, Jan 20, 2026",Philadelphia 76ers,110,Phoenix Suns,116,0,1
+644,"Tue, Jan 20, 2026",Chicago Bulls,138,Los Angeles Clippers,110,1,0
+645,"Tue, Jan 20, 2026",Houston Rockets,111,San Antonio Spurs,106,1,0
+646,"Tue, Jan 20, 2026",Utah Jazz,127,Minnesota Timberwolves,122,1,0
+647,"Tue, Jan 20, 2026",Denver Nuggets,107,Los Angeles Lakers,115,0,1
+648,"Tue, Jan 20, 2026",Golden State Warriors,127,Toronto Raptors,145,0,1
+649,"Tue, Jan 20, 2026",Sacramento Kings,117,Miami Heat,130,0,1
+650,"Wed, Jan 21, 2026",Charlotte Hornets,87,Cleveland Cavaliers,94,0,1
+651,"Wed, Jan 21, 2026",Boston Celtics,119,Indiana Pacers,104,1,0
+652,"Wed, Jan 21, 2026",New York Knicks,120,Brooklyn Nets,66,1,0
+653,"Wed, Jan 21, 2026",Memphis Grizzlies,122,Atlanta Hawks,124,0,1
+654,"Wed, Jan 21, 2026",New Orleans Pelicans,104,Detroit Pistons,112,0,1
+655,"Wed, Jan 21, 2026",Milwaukee Bucks,102,Oklahoma City Thunder,122,0,1
+656,"Wed, Jan 21, 2026",Sacramento Kings,109,Toronto Raptors,122,0,1
+657,"Thu, Jan 22, 2026",Orlando Magic,97,Charlotte Hornets,124,0,1
+658,"Thu, Jan 22, 2026",Philadelphia 76ers,128,Houston Rockets,122,1,0
+659,"Thu, Jan 22, 2026",Washington Wizards,97,Denver Nuggets,107,0,1
+660,"Thu, Jan 22, 2026",Dallas Mavericks,123,Golden State Warriors,115,1,0
+661,"Thu, Jan 22, 2026",Minnesota Timberwolves,115,Chicago Bulls,120,0,1
+662,"Thu, Jan 22, 2026",Utah Jazz,109,San Antonio Spurs,126,0,1
+663,"Thu, Jan 22, 2026",Los Angeles Clippers,112,Los Angeles Lakers,104,1,0
+664,"Thu, Jan 22, 2026",Portland Trail Blazers,127,Miami Heat,110,1,0
+665,"Fri, Jan 23, 2026",Detroit Pistons,104,Houston Rockets,111,0,1
+666,"Fri, Jan 23, 2026",Atlanta Hawks,110,Phoenix Suns,103,1,0
+667,"Fri, Jan 23, 2026",Brooklyn Nets,126,Boston Celtics,130,0,1
+668,"Fri, Jan 23, 2026",Cleveland Cavaliers,123,Sacramento Kings,118,1,0
+669,"Fri, Jan 23, 2026",Memphis Grizzlies,127,New Orleans Pelicans,133,0,1
+670,"Fri, Jan 23, 2026",Oklahoma City Thunder,114,Indiana Pacers,117,0,1
+671,"Fri, Jan 23, 2026",Milwaukee Bucks,100,Denver Nuggets,102,0,1
+672,"Fri, Jan 23, 2026",Portland Trail Blazers,98,Toronto Raptors,110,0,1
+673,"Sat, Jan 24, 2026",Charlotte Hornets,119,Washington Wizards,115,1,0
+674,"Sat, Jan 24, 2026",Philadelphia 76ers,109,New York Knicks,112,0,1
+675,"Sat, Jan 24, 2026",Orlando Magic,105,Cleveland Cavaliers,119,0,1
+676,"Sat, Jan 24, 2026",Chicago Bulls,114,Boston Celtics,111,1,0
+677,"Sat, Jan 24, 2026",Dallas Mavericks,110,Los Angeles Lakers,116,0,1
+678,"Sat, Jan 24, 2026",Utah Jazz,116,Miami Heat,147,0,1
+679,"Sun, Jan 25, 2026",Detroit Pistons,139,Sacramento Kings,116,1,0
+680,"Sun, Jan 25, 2026",Minnesota Timberwolves,85,Golden State Warriors,111,0,1
+681,"Sun, Jan 25, 2026",Oklahoma City Thunder,101,Toronto Raptors,103,0,1
+682,"Sun, Jan 25, 2026",San Antonio Spurs,95,New Orleans Pelicans,104,0,1
+683,"Sun, Jan 25, 2026",Phoenix Suns,102,Miami Heat,111,0,1
+684,"Sun, Jan 25, 2026",Los Angeles Clippers,126,Brooklyn Nets,89,1,0
+685,"Mon, Jan 26, 2026",Atlanta Hawks,132,Indiana Pacers,116,1,0
+686,"Mon, Jan 26, 2026",Charlotte Hornets,130,Philadelphia 76ers,93,1,0
+687,"Mon, Jan 26, 2026",Cleveland Cavaliers,114,Orlando Magic,98,1,0
+688,"Mon, Jan 26, 2026",Boston Celtics,102,Portland Trail Blazers,94,1,0
+689,"Mon, Jan 26, 2026",Chicago Bulls,118,Los Angeles Lakers,129,0,1
+690,"Mon, Jan 26, 2026",Houston Rockets,108,Memphis Grizzlies,99,1,0
+691,"Mon, Jan 26, 2026",Minnesota Timberwolves,108,Golden State Warriors,83,1,0
+692,"Tue, Jan 27, 2026",Washington Wizards,115,Portland Trail Blazers,111,1,0
+693,"Tue, Jan 27, 2026",New York Knicks,103,Sacramento Kings,87,1,0
+694,"Tue, Jan 27, 2026",Oklahoma City Thunder,104,New Orleans Pelicans,95,1,0
+695,"Tue, Jan 27, 2026",Philadelphia 76ers,139,Milwaukee Bucks,122,1,0
+696,"Tue, Jan 27, 2026",Denver Nuggets,107,Detroit Pistons,109,0,1
+697,"Tue, Jan 27, 2026",Phoenix Suns,106,Brooklyn Nets,102,1,0
+698,"Tue, Jan 27, 2026",Utah Jazz,103,Los Angeles Clippers,115,0,1
+699,"Wed, Jan 28, 2026",Cleveland Cavaliers,129,Los Angeles Lakers,99,1,0
+700,"Wed, Jan 28, 2026",Indiana Pacers,113,Chicago Bulls,110,1,0
+701,"Wed, Jan 28, 2026",Boston Celtics,106,Atlanta Hawks,117,0,1
+702,"Wed, Jan 28, 2026",Miami Heat,124,Orlando Magic,133,0,1
+703,"Wed, Jan 28, 2026",Toronto Raptors,92,New York Knicks,119,0,1
+704,"Wed, Jan 28, 2026",Memphis Grizzlies,97,Charlotte Hornets,112,0,1
+705,"Wed, Jan 28, 2026",Dallas Mavericks,105,Minnesota Timberwolves,118,0,1
+706,"Wed, Jan 28, 2026",Utah Jazz,124,Golden State Warriors,140,0,1
+707,"Wed, Jan 28, 2026",Houston Rockets,99,San Antonio Spurs,111,0,1
+708,"Thu, Jan 29, 2026",Philadelphia 76ers,113,Sacramento Kings,111,1,0
+709,"Thu, Jan 29, 2026",Washington Wizards,109,Milwaukee Bucks,99,1,0
+710,"Thu, Jan 29, 2026",Atlanta Hawks,86,Houston Rockets,104,0,1
+711,"Thu, Jan 29, 2026",Chicago Bulls,113,Miami Heat,116,0,1
+712,"Thu, Jan 29, 2026",Dallas Mavericks,121,Charlotte Hornets,123,0,1
+713,"Thu, Jan 29, 2026",Denver Nuggets,107,Brooklyn Nets,103,1,0
+714,"Thu, Jan 29, 2026",Phoenix Suns,114,Detroit Pistons,96,1,0
+715,"Thu, Jan 29, 2026",Minnesota Timberwolves,123,Oklahoma City Thunder,111,1,0
+716,"Fri, Jan 30, 2026",Washington Wizards,111,Los Angeles Lakers,142,0,1
+717,"Fri, Jan 30, 2026",Boston Celtics,112,Sacramento Kings,93,1,0
+718,"Fri, Jan 30, 2026",New Orleans Pelicans,114,Memphis Grizzlies,106,1,0
+719,"Fri, Jan 30, 2026",New York Knicks,127,Portland Trail Blazers,97,1,0
+720,"Fri, Jan 30, 2026",Orlando Magic,130,Toronto Raptors,120,1,0
+721,"Fri, Jan 30, 2026",Denver Nuggets,122,Los Angeles Clippers,109,1,0
+722,"Fri, Jan 30, 2026",Phoenix Suns,126,Cleveland Cavaliers,113,1,0
+723,"Fri, Jan 30, 2026",Utah Jazz,99,Brooklyn Nets,109,0,1
+724,"Fri, Jan 30, 2026",Golden State Warriors,124,Detroit Pistons,131,0,1
+725,"Sat, Jan 31, 2026",Charlotte Hornets,111,San Antonio Spurs,106,1,0
+726,"Sat, Jan 31, 2026",Indiana Pacers,129,Atlanta Hawks,124,1,0
+727,"Sat, Jan 31, 2026",Philadelphia 76ers,124,New Orleans Pelicans,114,1,0
+728,"Sat, Jan 31, 2026",Memphis Grizzlies,114,Minnesota Timberwolves,131,0,1
+729,"Sat, Jan 31, 2026",Miami Heat,118,Chicago Bulls,125,0,1
+730,"Sat, Jan 31, 2026",Houston Rockets,111,Dallas Mavericks,107,1,0
